@@ -1,0 +1,8 @@
+Relay	KEYWORD1
+on	KEYWORD2
+off	KEYWORD2
+isOn	KEYWORD2
+isOff	KEYWORD2
+onActive	KEYWORD2
+onInactive	KEYWORD2
+invertReading	KEYWORD2
