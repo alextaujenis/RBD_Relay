@@ -1,4 +1,4 @@
-// Arduino RBD Relay Library v1.0.0 - Unit test coverage.
+// Arduino RBD Relay Library v1.0.1 - Unit test coverage.
 // https://github.com/alextaujenis/RBD_Relay
 // Copyright 2016 Alex Taujenis
 // MIT License

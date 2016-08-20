@@ -1,4 +1,4 @@
-// Arduino RBD Relay Library v1.0.0 Example - Turn a relay on.
+// Arduino RBD Relay Library v1.0.1 Example - Turn a relay on.
 // https://github.com/alextaujenis/RBD_Relay
 // Copyright 2016 Alex Taujenis
 // MIT License

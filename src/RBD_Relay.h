@@ -1,4 +1,4 @@
-// Arduino RBD Relay Library v1.0.0 - Control many relays without interrups or delay.
+// Arduino RBD Relay Library v1.0.1 - Control many relays without interrupts or delay.
 // https://github.com/alextaujenis/RBD_Relay
 // Copyright 2016 Alex Taujenis
 // MIT License
@@ -26,7 +26,7 @@ namespace RBD {
       bool _state = LOW;
       bool _has_been_active = false;
       bool _has_been_inactive = false;
-      void _setInput();
+      void _setOutput();
       void _activate();
   };
 }
