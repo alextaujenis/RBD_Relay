@@ -3,7 +3,7 @@
 // Copyright 2016 Alex Taujenis
 // MIT License
 
-#include <RBD_Relay.h>
+#include <RBD_Relay.h> // https://github.com/alextaujenis/RBD_Relay
 
 RBD::Relay relay(2, true); // digital pin 2, inverted
 
